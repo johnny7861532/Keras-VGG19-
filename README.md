@@ -1,6 +1,6 @@
-**VGG19 model with Keras**
+# VGG19 model with Keras
 
-Using the pretrained model for feature extract
+## Using the pretrained model for feature extract
 
 *The VGG19 model is large, it might take some time to fully download.*
 
