@@ -11,6 +11,9 @@ The Neural-Style-Transfer:
 https://github.com/titu1994/Neural-Style-Transfer
 
 **You can also try out other model:**
-VGG16,
-Inception V3,
-ResNet 50.
+
+*VGG16*
+
+*Inception V3*
+
+*ResNet 50*
